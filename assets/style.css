@@ -118,7 +118,6 @@ body {
 {
     
     background-color: #F5F5F7;
-    /* background-color: #055AAF; */
     text-align: center;
     width: 100%;
     height: 600px;
@@ -171,48 +170,39 @@ body {
     flex-direction: row;
    
 }
+.v1
+{
+    position: relative;
+}
 .content-v1
 {
     position: absolute;
-    b
-    left: 0;
-   
+    bottom: 0;  
 }
 .v1 video
 {
   width: 100%;
   z-index: 0;
 }
-.l-text
-{
-    display: flex;
-    right: 0;
-}
-.l-text img
-{
-    height: 40px;
-    width: 40px;
-}
-.series
-{
-    font-weight: 500;
-    font-size: 15px;
-    letter-spacing: 3px;
-}
-.content-v1 p
-{
-    font-size: 25px;
-    letter-spacing: 1px;
-
-}
 .l-b-button button
 {
     border:none ;
     border-radius: 20px;
     padding: 10px;
-    font-size: 15px;
-    
-    
+    font-size: 15px;  
 }
+.l-text p
+{
+    display: inline-block;
+    font-size: 47px;
+    font-weight: 700;
+    display: block;i
+}
+.l-text img
+{
+    top: 10px;
+    /* height:45px; */
+}
+
 
 
