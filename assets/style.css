@@ -203,6 +203,17 @@ body {
     top: 10px;
     /* height:45px; */
 }
+.v1 h1
+{
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    line-height: 15px;
+}
+.v1 p
+{
+    line-height: 50px;
+}
 
 
 
