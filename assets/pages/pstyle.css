@@ -1,0 +1,44 @@
+body
+{
+    background-color: #F5F5F7;
+}
+
+button
+{
+    border-radius: 50px;
+}
+h6
+{
+    font-size: 50%;
+    word-spacing: 55px;
+}
+.movie
+{
+    display: flex;
+    align-items: flex-end;
+}
+footer a
+{
+  font-size: 40px;
+  text-decoration: none;
+  color: #6c6868;
+}
+
+
+@media (max-width: 576px) {
+    /* For small devices (sm) and above */
+    .diff {
+      /* Adjust the styles for col-sm-12 */
+      color: aqua;
+      max-width: 100%;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    /* For medium devices (md) and above */
+    .diff {
+      /* Adjust the styles for col-md-6 */
+      max-width: 50%;
+    }
+  }
+  
