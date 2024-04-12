@@ -15,7 +15,12 @@ body {
    
 }
 
-
+footer a
+{
+  /* font-size: 0px; */
+  text-decoration: none;
+  color: #6c6868;
+}
 .navbar-nav {
     margin: auto;
     display: flex;
