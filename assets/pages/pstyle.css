@@ -39,6 +39,22 @@ footer a
 }
 
 
+.bk
+{
+  
+    position: relative;
+    text-align: center;
+    color: white;
+  
+}
+.cen {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
 @media (max-width: 576px) {
     /* For small devices (sm) and above */
     .diff {
