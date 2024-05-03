@@ -1,6 +1,6 @@
 # Apple-clone
 
-Welcome to the Apple Clone project! This project aims to replicate the design.
+Welcome to the <b> Apple Clone project</b>! This project aims to replicate the design.
 
 I'm currently implementing and practicing my front-end knowledge in this repo.
 
@@ -8,13 +8,13 @@ I'm currently implementing and practicing my front-end knowledge in this repo.
 
 You can see the output of each page:
 
-Index ==> https://cozy-sunburst-6a058b.netlify.app <br>
-iPad ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/ipad
-Watch ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/watch
-AirPods ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/airpods
-TV & Home ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/tv&home
-Accessories ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/accessories
-Support ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/support
+<h3 style="color:#cc99ff">Index </h3>  ==> https://cozy-sunburst-6a058b.netlify.app <br>
+iPad ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/ipad <br>
+Watch ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/watch <br>
+AirPods ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/airpods <br>
+TV & Home ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/tv&home <br>
+Accessories ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/accessories <br>
+Support ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/support <br>
 
 
 
