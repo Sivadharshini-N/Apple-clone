@@ -8,7 +8,7 @@ I'm currently implementing and practicing my front-end knowledge in this repo.
 
 You can see the output of each page:
 
-Index ==> https://cozy-sunburst-6a058b.netlify.app
+Index ==> https://cozy-sunburst-6a058b.netlify.app <br>
 iPad ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/ipad
 Watch ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/watch
 AirPods ==> https://cozy-sunburst-6a058b.netlify.app/assets/pages/airpods
